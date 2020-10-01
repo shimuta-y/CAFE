@@ -20,7 +20,6 @@ img {
   max-width: 100%;
 }
 
-/* HEADER */
 /* 横並び表示 */
 .page-header {
   display: flex;
@@ -110,4 +109,15 @@ img {
 }
 #news .page-title {
   text-align: center;
+}
+
+/* フッター-------------------- */
+footer {
+  text-align: center;
+  background: #432;
+  padding: 26px 0;
+}
+footer p {
+  color: #fff;
+  font-size: 0.875rem;
 }
