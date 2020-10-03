@@ -120,7 +120,8 @@ img {
 
 /* 記事部分----------------------- */
 article {
-  width: 74%;
+  width: 60%;
+  order: 2;
 }
 article img {
   margin-bottom: 20px;
@@ -167,6 +168,7 @@ article p {
 /* サイドバー----------------------- */
 aside {
   width: 22%;
+  order: 3;
 }
 aside p {
   padding: 12px 10px;
@@ -188,6 +190,10 @@ aside p {
   color: #432;
   padding: 10px;
   display: block; /* クリック範囲拡張　*/
+}
+
+.ad {
+  order: 1;
 }
 
 /* フッター-------------------- */
