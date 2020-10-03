@@ -253,12 +253,12 @@ footer p {
     font-size: 0.875rem;
     padding: 2px;
   }
-}
-.post-cat {
-  font-size: 0.875rem;
-  margin-top: 10px;
-}
-.post-title,
-.post-cat {
-  margin-left: 80px;
+  .post-cat {
+    font-size: 0.875rem;
+    margin-top: 10px;
+  }
+  .post-title,
+  .post-cat {
+    margin-left: 80px;
+  }
 }
