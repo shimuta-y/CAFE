@@ -122,6 +122,12 @@ img {
 article {
   width: 74%;
 }
+article img {
+  margin-bottom: 20px;
+}
+article p {
+  margin-bottom: 1rem;
+}
 .post-info {
   position: relative;
   padding-top: 4px;
